@@ -1,4 +1,4 @@
-### Central Limit Theorem 
+### Central Limit Theorem - Revised 
 
 library(ggplot2)
 

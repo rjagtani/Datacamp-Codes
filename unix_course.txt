@@ -1,0 +1,40 @@
+pwd - Get current working directory
+
+
+ls - list contents of present directory
+cp - copy contents
+mv - cut in windows
+mkdir - create directory
+rm - remove file 
+rmdir - remove directory
+
+
+copy multiple files into directories 
+
+cp dir1/file1 dir2/file2 dir 3 - copies file1 in dir1 & file 2 in dir 2 to dir3
+mv file1.txt file2.txt - renames file1.txt to file2.txt 
+
+
+View contents of a file 
+
+cat file1.txt 
+
+## A more convenient way
+
+less file1.txt file2.txt 
+
+Space - to go to the next page
+:n - to go to the next file
+:q - quit 
+
+
+ls -R ( -R = recursive)
+ls -F path(to get the type of content in the directory - directories are followed by '/' whereas executablesd are listed as is.
+
+head filename
+tail -n 5 filename
+
+cut -f 2-5,8 -d , filename.csv - selects 2nd,5th and 8th column from filename.csv with delimiter comma
+
+
+
